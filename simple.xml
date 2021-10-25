@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node is-file="false">
+	<name>/</name>
+	<children>
+		<child is-file="true">
+			<name>file-776194140.xml</name>
+		</child>
+		<child is-file="false">
+			<name>dir-880176375</name>
+			<children>
+				<child is-file="true">
+					<name>file-1073842118.java</name>
+				</child>
+				<child is-file="false">
+					<name>dir-2145307015</name>
+					<children>
+						<child is-file="true">
+							<name>file-1498940214.xhtml</name>
+						</child>
+					</children>
+				</child>
+			</children>
+		</child>
+	</children>
+</node>
